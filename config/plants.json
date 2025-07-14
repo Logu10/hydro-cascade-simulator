@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Upper River Plant",
+    "head": 60,
+    "efficiency": 0.9,
+    "max_flow": 300,
+    "storage_capacity": 1000000.0,
+    "initial_storage": 500000.0
+  },
+  {
+    "name": "Middle River Plant",
+    "head": 50,
+    "efficiency": 0.9,
+    "max_flow": 300,
+    "storage_capacity": 1000000.0,
+    "initial_storage": 500000.0
+  },
+  {
+    "name": "Lower River Plant",
+    "head": 40,
+    "efficiency": 0.9,
+    "max_flow": 300,
+    "storage_capacity": 1000000.0,
+    "initial_storage": 500000.0
+  }
+]
